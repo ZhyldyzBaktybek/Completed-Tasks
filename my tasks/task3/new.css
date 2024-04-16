@@ -1,0 +1,89 @@
+body {
+    background-color: pink
+}
+
+h1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: brown;
+    text-align: center;
+    
+}
+
+#para {
+    text-align: center;
+    color: navy;
+    width: 25%;
+}
+
+#highlight {
+    background-color: cadetblue;
+}
+#caption {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bio {
+    border-radius: 5px;
+    text-align:center;
+}
+
+div {
+    border-radius: 5px;
+}
+
+h2 {
+    font-style:italic;
+}
+
+#bottom-h3 {
+    width: 25%;
+    text-align: center;
+}
+
+aside {
+    text-indent: 20px;
+}
+
+#parag {
+    color:springgreen;
+    border-bottom: 5px;
+    border-right: 5px;
+}
+
+h5 {
+    font-size: 25px;
+    line-height: 20px;
+    color: plum;
+    padding: 4px;
+    margin-left: 6px;
+    font-family:monospace
+    
+}.image {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+header {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    width: 25%;
+}
+
+h4 {
+    text-align: center;
+}
+

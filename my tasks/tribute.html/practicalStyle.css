@@ -1,0 +1,39 @@
+body {
+    background-color: yellowgreen;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: black;
+}
+
+#toph3 {
+    color: #060303;
+}
+
+.bio {
+text-align: center;
+}
+
+#lowerh3 {
+    text-align: center;
+}
+
+.Mar {
+    text-align: center;
+}
+
+aside {
+    width: auto;
+}
+
+h2 {
+    border: 25px ;
+    padding: 25px ;
+    text-align: center;
+}
+
+#midh3 {
+    text-align: center;
+}
